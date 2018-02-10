@@ -1,4 +1,4 @@
-# Issue report by fork
+# Issue report by fork (RESOLVED)
 
 Exactly as stated, basically speaking. As for the problem in question, starting Snaz under certain conditions results in an immediate crash to desktop, worsened by PIDs that simply REFUSE to die. (Seeing you have programming skills, and that I also know this stuff, I'd think you'd be able to get to the bottom of this.)
 
