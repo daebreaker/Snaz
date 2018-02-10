@@ -20,6 +20,10 @@ This is from running in Admin mode, normal run does likewise when last I checked
 
 As a reminder, this isn't a proposed document change per se (that's all you) but I was simply at a loss for giving you the heads up. Fingers crossed this crosses over - this is really starting to get annoying because it obviously bricks the Snaz install (even unload/reinstall/update - which shall get one last try - has been a complete waste!) You are free to decline this request version once delivered - I only did this so I could explain what I'm dealing with.
 
+## UPDATE
+
+ENDED UP BEING A 3RD-PARTY SYSTEM EXTENSION ISSUE, PLEASE DISREGARD. THANKS ANYWAY!!!
+
 # END ISSUE REPORT
 
 # Latest version 1.12.6.0
