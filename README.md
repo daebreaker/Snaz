@@ -1,3 +1,25 @@
+# Issue report note by fork (because I don't see other alternatives right now)
+
+Exactly as stated, basically speaking. As for the problem in question, starting Snaz under certain conditions results in an immediate crash to desktop, worsened by PIDs that simply REFUSE to die. (Seeing you have programming skills, and that I also know this stuff, I'd think you'd be able to get to the bottom of this.)
+
+For simplicity I will do a (slightly abridged) rough draft of Task Manager results:
+
+Image Name......PID.....User Name.....CPU.....Memory....Description
+
+sihost.exe......400.....*REDACTED*....00......4,280 K...Shell Infras
+
+Snaz.exe........11712.................00......20 K..................
+
+Snaz.exe........12668.................00......20 K..................
+
+svchost.exe.....2948....*REDACTED*....00......10,904 K..Host Process
+
+This is from running in Admin mode, normal run does likewise when last I checked. And this is on latest master build (1.12.6.0) with no specialized features activated (up to and including Spotify) so I'm at a complete loss.
+
+As a reminder, this isn't a proposed document change per se (that's all you) but I was simply at a loss for giving you the heads up. Fingers crossed on this - this is starting to get even more annoying by the day (even unload/reinstall/update has been a complete waste!) You are free to decline this request version once delivered - I only did this so I could explain what's going on here.
+
+# END ISSUE REPORT
+
 # Latest version 1.12.6.0
 
 ## Snaz
@@ -29,3 +51,4 @@ Playing Now | song, artist album, album image (Spotify, Foobar2000, winamp, iTun
 > Check the [documentation](https://github.com/JimmyAppelt/Snaz/wiki) for more detailed information
 
 ![sample-image](https://i.gyazo.com/985dabdbf42b9dc28ec9ac4f3bd71a6c.png)
+
