@@ -24,6 +24,10 @@ As a reminder, this isn't a proposed document change per se (that's all you) but
 
 ENDED UP BEING A 3RD-PARTY SYSTEM EXTENSION ISSUE, PLEASE DISREGARD. THANKS ANYWAY!!!
 
+## UPDATE 2
+
+Kudos for the carry-over frommy  prior installation as well, so at least I didn't lose all that much in reconfig upon successful loadup. Just a few simple mods and it's business as usual!
+
 # END ISSUE REPORT
 
 # Latest version 1.12.6.0
