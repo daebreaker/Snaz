@@ -18,7 +18,7 @@ svchost.exe............2948......*REDACTED*....00.........10,904 K....Host Proce
 
 This is from running in Admin mode, normal run does likewise when last I checked. And this is on latest master build (1.12.6.0) with no specialized features activated (up to and including Spotify) so I'm at a complete loss.
 
-As a reminder, this isn't a proposed document change per se (that's all you) but I was simply at a loss for giving you the heads up. Fingers crossed on this - this is starting to get even more annoying by the day (even unload/reinstall/update has been a complete waste!) You are free to decline this request version once delivered - I only did this so I could explain what's going on here.
+As a reminder, this isn't a proposed document change per se (that's all you) but I was simply at a loss for giving you the heads up. Fingers crossed this crosses over - this is really starting to get annoying because it obviously bricks the Snaz install (even unload/reinstall/update has been a complete waste!) You are free to decline this request version once delivered - I only did this so I could explain what I'm dealing with.
 
 # END ISSUE REPORT
 
